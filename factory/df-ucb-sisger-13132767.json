@@ -1,0 +1,15 @@
+{
+	"name": "df-ucb-sisger-13132767",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "6178f489-4136-40c8-bba1-e74bc7bb0dcb",
+		"tenantId": "cc28633f-12b8-46cb-bc15-951dae239b4d"
+	}
+}
